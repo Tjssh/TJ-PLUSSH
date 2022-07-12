@@ -1,14 +1,14 @@
-# BEM VINDO 🖕
+# BEM VINDO !
 
-# SSH-PLUS
+# TJ-PLUSSH
 
-# @ALFAINTERNET
+# @DETETIVELOF
 
-*PROJETO EM ANDAMENTO...
+*EDIT EM ANDAMENTO...
 
 
 # Modo de instalação
-# 👇👽👍
+# cópia e cola
 Só joga na máquina e deixar instalar
 
 • atualiza sistema
